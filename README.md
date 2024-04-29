@@ -555,19 +555,3 @@ url                                                  # e.g. www.example.com, 192
         /odiptimg  ['GET']  [return IMAGE/PNG]       # get upload image for object detection
         /odresimg  ['GET']  [return IMAGE/PNG]       # get result image of object detection
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# kolibri2
