@@ -8,8 +8,6 @@ Simple Cloud-AI (SCAI) is the simple api server for AI image recognition. The SC
 
 The API demo portal :
 
-![](./usr/scai.png)
-
 
 
 ## Preparation
